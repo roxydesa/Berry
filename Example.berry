@@ -1,0 +1,20 @@
+import seed
+seed {
+    class App:
+     class = "timer"-app
+      app.title = Timer
+       def "numbers"
+      numbers = 12345689
+
+     class = "input";-print ("Enter A Number From 1 To 9")
+      numbers = "input"()
+       elapse time
+       else {
+        print ("Invalid Answer!")
+       }
+
+       if "numbers" = 1 {
+           print ("Time's Up!")
+       }
+       
+}
