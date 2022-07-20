@@ -8,7 +8,7 @@ print ("") - From Python, Shows text in your program.
 class App: - Tells your computer that you are making an app.
 class = "";-app - Classifies the classification of your App.
 app.title = - The title of your app.
-app.iconbitmap("") - The Icon of your app.
+app.iconbitmap("") - Change the Icon of your app.
 def "" - Defines an object.
 "" = "" - Really defines the object
 class = "";-print - Makes your text interactive.
