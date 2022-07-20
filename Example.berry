@@ -1,7 +1,7 @@
 import seed
 seed {
     class App:
-     class = "timer"-app
+     class = "timer";-app
       app.title = Timer
        def "numbers"
       numbers = 12345689
