@@ -1,0 +1,17 @@
+The Vocabulary List.
+
+
+import seed - Specifies that you are making a program.
+seed {} - Species all the code in your program
+print ("") - From Python, Shows text in your program.
+("") - Text goes there.
+class App: - Tells your computer that you are making an app.
+class = "";-app - Classifies the classification of your App.
+app.title = - The title of your app.
+app.iconbitmap("") - The Icon of your app.
+def "" - Defines an object.
+"" = "" - Really defines the object
+class = "";-print - Makes your text interactive.
+if {} - Classifies what the if statement is going to be.
+else {} - Classifies what happens when something is not true.
+elif {"" = ""} - Classifies what happens when something is not true or false.
