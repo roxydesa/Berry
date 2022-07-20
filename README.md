@@ -1,5 +1,5 @@
 # Berry
-A simple programming language based on python, Used to make apps the easiest way.
+A simple programming language based on python, A Programming Language I Just Made Up.
 Berry Is Currently In Development.
 
 Example Text:
