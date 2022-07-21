@@ -2,7 +2,7 @@ The Vocabulary List.
 
 
 import seed - Specifies that you are making a program.
-seed {} - Species all the code in your program
+seed {} - Specifies all the code in your program
 print ("") - From Python, Shows text in your program.
 ("") - Text goes there.
 class App: - Tells your computer that you are making an app.
